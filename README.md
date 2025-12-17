@@ -1,13 +1,18 @@
-# Awesome-LLM4CyberAttack
+# Awesome-LLMAgent4Cyberattack
+
 
 ## 🌈 Introduction
-Large Language Models (LLMs) have demonstrated strong capabilities in language understanding and generation, enabling a wide range of applications. However, these same capabilities also introduce security risks, as LLMs can be repurposed as Cyber Attack Assistants. By providing guidance, generating malicious content, or automating technical tasks, LLMs may lower the barrier to conducting cyber attacks. Despite growing concerns, the offensive use of LLMs in cybersecurity remains insufficiently studied. This work investigates the role of LLMs in supporting cyber attack activities and the associated risks.
+Large Language Model (LLM) agents extend conventional LLMs by enabling planning, tool use, and multi-step decision making. While LLM agents have shown promise in automation and cybersecurity defense, they also introduce new security risks when repurposed for offensive purposes. By coordinating tools, reasoning over intermediate results, and autonomously executing tasks, LLM agents can act as cyber attack assistants, potentially lowering the barrier to conducting complex cyber attacks.
 
-We seek to address three key questions: 
-- RQ1: How to construct cyberattack-oriented domain LLMs
-- RQ2: What are the potential applications of LLMs in cyberattack?
-- RQ3: What are the existing challenges and further research directions about the application of LLMs in cyberattack?
+Recent research indicates that LLM agents can support multiple stages of the cyber attack lifecycle, such as reconnaissance, social engineering, exploit reasoning, and attack orchestration. However, studies on LLM agent–enabled cyber attacks remain scattered across different communities, lacking a systematic overview of how such agents are constructed, applied, and evaluated from an offensive security perspective.
 
+This repository aims to organize existing research on LLM agents for cyber attacks, with a focus on the following research questions:
+
+RQ1: How can LLM agents be constructed or adapted for cyber attack–oriented tasks?
+
+RQ2: What cyber attack activities can be enabled or enhanced by LLM agents?
+
+RQ3: What challenges, risks, and open research directions arise from LLM agent–based cyber attacks?
 
 
 #### LLM Assisted Attack
