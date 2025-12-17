@@ -17,6 +17,8 @@ RQ3: What challenges, risks, and open research directions arise from LLM agentâ€
 
 ## LLM Assisted Attack
 
+### Spider
+
 ### Pentest
 
 1. Pentest-R1: Towards Autonomous Penetration Testing Reasoning Optimized via Two-Stage Reinforcement Learning | *arxiv* | 2025.08.10 | [<u>Paper Link</u>](https://arxiv.org/pdf/2508.07382)
