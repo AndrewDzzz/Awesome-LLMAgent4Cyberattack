@@ -15,39 +15,34 @@ RQ2: What cyber attack activities can be enabled or enhanced by LLM agents?
 RQ3: What challenges, risks, and open research directions arise from LLM agentâ€“based cyber attacks?
 
 
-#### LLM Assisted Attack
+## LLM Assisted Attack
 
-1. An Automated Attack Investigation Approach Leveraging Threat-Knowledge-Augmented Large Language Models | *arxiv* | 2025.09.01 | [<u>Paper Link</u>](https://arxiv.org/pdf/2509.01271)
+### Pentest
 
-2. Cybersecurity AI: Hacking the AI Hackers via Prompt Injection | *arxiv* | 2025.09.01 | [<u>Paper Link</u>](https://arxiv.org/pdf/2508.21669)
+1. Pentest-R1: Towards Autonomous Penetration Testing Reasoning Optimized via Two-Stage Reinforcement Learning | *arxiv* | 2025.08.10 | [<u>Paper Link</u>](https://arxiv.org/pdf/2508.07382)
 
-3. SoK: Large Language Model-Generated Textual Phishing Campaigns End-to-End Analysis of Generation, Characteristics, and Detection | *arxiv* | 2025.08.29 | [<u>Paper Link</u>](https://arxiv.org/pdf/2508.21457)
+2. PenTest2.0: Towards Autonomous Privilege Escalation Using GenAI | *arxiv* | 2025.08.09 | [<u>Paper Link</u>](https://arxiv.org/pdf/2507.06742)
 
-4. Pentest-R1: Towards Autonomous Penetration Testing Reasoning Optimized via Two-Stage Reinforcement Learning | *arxiv* | 2025.08.10 | [<u>Paper Link</u>](https://arxiv.org/pdf/2508.07382)
+3. On the Surprising Efficacy of LLMs for Penetration-Testing | *arxiv* | 2025.07.01 | [<u>Paper Link</u>](https://arxiv.org/pdf/2507.00829)
 
-5. PenTest2.0: Towards Autonomous Privilege Escalation Using GenAI | *arxiv* | 2025.08.09 | [<u>Paper Link</u>](https://arxiv.org/pdf/2507.06742)
+4. AutoPentest: Enhancing Vulnerability Management With Autonomous LLM Agents | *arxiv* | 2025.05.15 | [<u>Paper Link</u>](https://arxiv.org/pdf/2505.10321)
+### Smart Contracts
 
-6. Prompt to Pwn: Automated Exploit Generation for Smart Contracts | *arxiv* | 2025.08.02 | [<u>Paper Link</u>](https://arxiv.org/pdf/2508.01371)
+### Phishing Attacks
 
-7. Can We End the Cat-and-Mouse Game? Simulating Self-Evolving Phishing Attacks with LLMs and Genetic Algorithms | *arxiv* | 2025.07.29 | [<u>Paper Link</u>](https://arxiv.org/pdf/2507.21538)
+1. Can We End the Cat-and-Mouse Game? Simulating Self-Evolving Phishing Attacks with LLMs and Genetic Algorithms | *arxiv* | 2025.07.29 | [<u>Paper Link</u>](https://arxiv.org/pdf/2507.21538)
 
-8. Exploiting Jailbreaking Vulnerabilities in Generative AI to Bypass Ethical Safeguards for Facilitating Phishing Attacks | *arxiv* | 2025.07.16 | [<u>Paper Link</u>](https://arxiv.org/pdf/2507.12185)
+2. LLMs unlock new paths to monetizing exploits | *arxiv* | 2025.05.16 | [<u>Paper Link</u>](https://arxiv.org/pdf/2505.11449)
 
-9. LLMalMorph: On The Feasibility of Generating Variant Malware using Large-Language-Models | *arxiv* | 2025.07.13 | [<u>Paper Link</u>](https://arxiv.org/pdf/2507.09411)
+### binary
 
-10. On the Surprising Efficacy of LLMs for Penetration-Testing | *arxiv* | 2025.07.01 | [<u>Paper Link</u>](https://arxiv.org/pdf/2507.00829)
+ReCopilot: Reverse Engineering Copilot in Binary Analysis | *arxiv* | 2025.05.22 | [<u>Paper Link</u>](https://arxiv.org/pdf/2505.16366)
 
-11. From Promise to Peril: Rethinking Cybersecurity Red and Blue Teaming in the Age of LLMs | *arxiv* | 2025.06.16 | [<u>Paper Link</u>](https://arxiv.org/pdf/2506.13434)
+### Survey
 
-12. On the Ethics of Using LLMs for Offensive Security | *arxiv* | 2025.06.10 | [<u>Paper Link</u>](https://arxiv.org/pdf/2506.08693)
+1. From Promise to Peril: Rethinking Cybersecurity Red and Blue Teaming in the Age of LLMs | *arxiv* | 2025.06.16 | [<u>Paper Link</u>](https://arxiv.org/pdf/2506.13434)
 
-13. ReCopilot: Reverse Engineering Copilot in Binary Analysis | *arxiv* | 2025.05.22 | [<u>Paper Link</u>](https://arxiv.org/pdf/2505.16366)
-
-14. LLMs unlock new paths to monetizing exploits | *arxiv* | 2025.05.16 | [<u>Paper Link</u>](https://arxiv.org/pdf/2505.11449)
-
-15. AutoPentest: Enhancing Vulnerability Management With Autonomous LLM Agents | *arxiv* | 2025.05.15 | [<u>Paper Link</u>](https://arxiv.org/pdf/2505.10321)
-
-16. Offensive Security for AI Systems: Concepts, Practices, and Applications | *arxiv* | 2025.05.09 | [<u>Paper Link</u>](https://arxiv.org/pdf/2505.06380)
+2. Offensive Security for AI Systems: Concepts, Practices, and Applications | *arxiv* | 2025.05.09 | [<u>Paper Link</u>](https://arxiv.org/pdf/2505.06380)
 
 17. Weaponizing Language Models for Cybersecurity Offensive Operations: Automating Vulnerability Assessment Report Validation; A Review Paper | *arxiv* | 2025.05.07 | [<u>Paper Link</u>](https://arxiv.org/pdf/2505.04265)
 
@@ -148,3 +143,9 @@ RQ3: What challenges, risks, and open research directions arise from LLM agentâ€
 65. Impact of Big Data Analytics and ChatGPT on Cybersecurity | *I3CS* | 2023.05.22 | [<u>Paper Link</u>](https://ieeexplore.ieee.org/document/10127411)
 
 66. Identifying and mitigating the security risks of generative ai | *Foundations and Trends in Privacy and Security* | 2023.12.29 | [<u>Paper Link</u>](https://arxiv.org/abs/2308.14840)
+
+
+### Defense Against AI Hackers
+
+1. Cybersecurity AI: Hacking the AI Hackers via Prompt Injection | *arxiv* | 2025.09.01 | [<u>Paper Link</u>](https://arxiv.org/pdf/2508.21669)
+
