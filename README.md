@@ -78,7 +78,7 @@ RQ3: What challenges, risks, and open research directions arise from LLM agentâ€
 
 1. ReCopilot: Reverse Engineering Copilot in Binary Analysis | *arxiv* | 2025.05.22 | [<u>Paper Link</u>](https://arxiv.org/pdf/2505.16366)
 
-### CTF (Vul)
+### Vul
 
 1. PwnGPT: Automatic Exploit Generation Based on Large Language Models | *ACL* | 2025.04 | [<u>Paper Link</u>](https://aclanthology.org/2025.acl-long.562.pdf)
 
