@@ -87,7 +87,14 @@ RQ3: What challenges, risks, and open research directions arise from LLM agentâ€
 
 ### Attack Target: LLM Agent
 
-### 
+### Injection Attacks 
+
+### Poisoning and Extraction Attacks
+
+### Jailbreak Attacks
+
+### Agent Manipulation Attacks
+
 
 ### Survey & benchmark
 
