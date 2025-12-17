@@ -35,6 +35,10 @@ RQ3: What challenges, risks, and open research directions arise from LLM agentâ€
 
 1. Prompt Injection Shows LLM Agents Can Bypass CAPTCHA: What Security Teams Should Do | [<u>Paper Link</u>](https://cybersecurefox.com/en/prompt-injection-llm-agent-captcha-bypass) 
 
+### Exploit Generation
+
+### Fuzzing Generation
+
 ### Pentest
 
 1. Pentest-R1: Towards Autonomous Penetration Testing Reasoning Optimized via Two-Stage Reinforcement Learning | *arxiv* | 2025.08.10 | [<u>Paper Link</u>](https://arxiv.org/pdf/2508.07382)
@@ -74,12 +78,16 @@ RQ3: What challenges, risks, and open research directions arise from LLM agentâ€
 
 1. Can We End the Cat-and-Mouse Game? Simulating Self-Evolving Phishing Attacks with LLMs and Genetic Algorithms | *arxiv* | 2025.07.29 | [<u>Paper Link</u>](https://arxiv.org/pdf/2507.21538)
 
-2. LLMs unlock new paths to monetizing exploits | *arxiv* | 2025.05.16 | [<u>Paper Link</u>](https://arxiv.org/pdf/2505.11449)
+2. On the Feasibility of Fully AI-automated Vishing Attacks | *arXiv* | 2024.09.20 | [<u>Paper Link</u>](https://arxiv.org/pdf/2409.13793)
 
-3. On the Feasibility of Fully AI-automated Vishing Attacks | *arXiv* | 2024.09.20 | [<u>Paper Link</u>](https://arxiv.org/pdf/2409.13793)
+### Fraud Attacks
+
+1. LLMs unlock new paths to monetizing exploits | *arxiv* | 2025.05.16 | [<u>Paper Link</u>](https://arxiv.org/pdf/2505.11449)
 
 
+### Attack Target: LLM Agent
 
+### 
 
 ### Survey & benchmark
 
