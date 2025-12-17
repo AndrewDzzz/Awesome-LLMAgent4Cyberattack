@@ -1,4 +1,14 @@
-# Awesome-LLM-Assisted-Cyber-Attack
+# Awesome-LLM4CyberAttack
+
+## 🌈 Introduction
+Large Language Models (LLMs) have demonstrated strong capabilities in language understanding and generation, enabling a wide range of applications. However, these same capabilities also introduce security risks, as LLMs can be repurposed as Cyber Attack Assistants. By providing guidance, generating malicious content, or automating technical tasks, LLMs may lower the barrier to conducting cyber attacks. Despite growing concerns, the offensive use of LLMs in cybersecurity remains insufficiently studied. This work investigates the role of LLMs in supporting cyber attack activities and the associated risks.
+
+We seek to address three key questions: 
+- RQ1: How to construct cyberattack-oriented domain LLMs
+- RQ2: What are the potential applications of LLMs in cyberattack?
+- RQ3: What are the existing challenges and further research directions about the application of LLMs in cyberattack?
+
+
 
 #### LLM Assisted Attack
 
