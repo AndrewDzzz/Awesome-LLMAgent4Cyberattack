@@ -127,5 +127,5 @@ RQ3: What challenges, risks, and open research directions arise from LLM agentâ€
 
 ### Defense Against AI Hackers
 1.  Hacking Back the AI-Hacker: Prompt Injection as a Defense Against LLM-driven Cyberattacks | *arXiv* | 2024.11.18 | [<u>Paper Link</u>](https://arxiv.org/pdf/2410.20911)
-1. Cybersecurity AI: Hacking the AI Hackers via Prompt Injection | *arxiv* | 2025.09.01 | [<u>Paper Link</u>](https://arxiv.org/pdf/2508.21669)
-
+2. Cybersecurity AI: Hacking the AI Hackers via Prompt Injection | *arxiv* | 2025.09.01 | [<u>Paper Link</u>](https://arxiv.org/pdf/2508.21669)
+3. AI Crawl Control: review & control AI crawler activity | [<u>Paper Link</u>]([https://arxiv.org/pdf/2508.21669](https://www.cloudflare.com/lp/pg-ai-crawl-control/?gclsrc=aw.ds&&utm_term=block%20ai%20bots_go_cmp-23027232630_adg-188479052071_ad-774692993476_kwd-2381096610389_dev-c_ext-_prd-_sig-Cj0KCQiAxonKBhC1ARIsAIHq_lt308S1eN81rp3AMpLrvuDsxTIwgnwdI48Kc2hJ0dNEaCt7eF82ICoaAuihEALw_wcB&gad_source=1&gad_campaignid=23027232630&gbraid=0AAAAADnzVeRSfLR9r0tzeiEKZvBKHea8j&gclid=Cj0KCQiAxonKBhC1ARIsAIHq_lt308S1eN81rp3AMpLrvuDsxTIwgnwdI48Kc2hJ0dNEaCt7eF82ICoaAuihEALw_wcB))
