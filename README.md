@@ -26,6 +26,22 @@ RQ3: What challenges, risks, and open research directions arise from LLM agentâ€
 3. On the Surprising Efficacy of LLMs for Penetration-Testing | *arxiv* | 2025.07.01 | [<u>Paper Link</u>](https://arxiv.org/pdf/2507.00829)
 
 4. AutoPentest: Enhancing Vulnerability Management With Autonomous LLM Agents | *arxiv* | 2025.05.15 | [<u>Paper Link</u>](https://arxiv.org/pdf/2505.10321)
+
+5. RapidPen: Fully Automated IP-to-Shell Penetration Testing with LLM-based Agents
+
+6. Construction and Evaluation of LLM-based agents for Semi-Autonomous penetration testing | *arXiv* | 2025.02.21 | [<u>Paper Link</u>](https://arxiv.org/pdf/2502.15506)
+
+7. Can LLMs Hack Enterprise Networks? Autonomous Assumed Breach Penetration-Testing Active Directory Networks | *arXiv* | 2025.02.06 | [<u>Paper Link</u>](https://arxiv.org/pdf/2502.04227)
+
+8. HackSynth: LLM Agent and Evaluation Framework for Autonomous Penetration Testing | *arXiv* | 2024.12.02 | [<u>Paper Link</u>](https://arxiv.org/pdf/2412.01778)
+
+9. PentestAgent: Incorporating LLM Agents to Automated Penetration Testing | *arXiv* | 2024.11.07 | [<u>Paper Link</u>](https://arxiv.org/pdf/2411.05185)
+
+10. AutoPT: How Far Are We from the End2End Automated Web Penetration Testing? | *arXiv* | 2024.11.02 | [<u>Paper Link</u>](https://arxiv.org/pdf/2411.01236)
+
+11. Hacking, The Lazy Way: LLM Augmented Pentesting | *arXiv* | 2024.09.14 | [<u>Paper Link</u>](https://arxiv.org/pdf/2409.09493)
+
+12. CIPHER: Cybersecurity Intelligent Penetration-testing Helper for Ethical Researcher | *Sensors* | 2024.08.21 | [<u>Paper Link</u>](https://arxiv.org/pdf/2408.11650)
 ### Smart Contracts
 
 ### Phishing Attacks
@@ -34,79 +50,43 @@ RQ3: What challenges, risks, and open research directions arise from LLM agentâ€
 
 2. LLMs unlock new paths to monetizing exploits | *arxiv* | 2025.05.16 | [<u>Paper Link</u>](https://arxiv.org/pdf/2505.11449)
 
+3. On the Feasibility of Fully AI-automated Vishing Attacks | *arXiv* | 2024.09.20 | [<u>Paper Link</u>](https://arxiv.org/pdf/2409.13793)
+
 ### binary
 
-ReCopilot: Reverse Engineering Copilot in Binary Analysis | *arxiv* | 2025.05.22 | [<u>Paper Link</u>](https://arxiv.org/pdf/2505.16366)
+1. ReCopilot: Reverse Engineering Copilot in Binary Analysis | *arxiv* | 2025.05.22 | [<u>Paper Link</u>](https://arxiv.org/pdf/2505.16366)
 
-### Survey
+### CTF
+
+1. PwnGPT: Automatic Exploit Generation Based on Large Language Models | *ACL* | 2025.04 | [<u>Paper Link</u>](https://aclanthology.org/2025.acl-long.562.pdf)
+
+2. CAI: An Open, Bug Bounty-Ready Cybersecurity AI | *arXiv* | 2025.04.15 | [<u>Paper Link</u>](https://arxiv.org/abs/2504.06017)
+
+### Survey & benchmark
 
 1. From Promise to Peril: Rethinking Cybersecurity Red and Blue Teaming in the Age of LLMs | *arxiv* | 2025.06.16 | [<u>Paper Link</u>](https://arxiv.org/pdf/2506.13434)
 
 2. Offensive Security for AI Systems: Concepts, Practices, and Applications | *arxiv* | 2025.05.09 | [<u>Paper Link</u>](https://arxiv.org/pdf/2505.06380)
 
-17. Weaponizing Language Models for Cybersecurity Offensive Operations: Automating Vulnerability Assessment Report Validation; A Review Paper | *arxiv* | 2025.05.07 | [<u>Paper Link</u>](https://arxiv.org/pdf/2505.04265)
+3. Weaponizing Language Models for Cybersecurity Offensive Operations: Automating Vulnerability Assessment Report Validation; A Review Paper | *arxiv* | 2025.05.07 | [<u>Paper Link</u>](https://arxiv.org/pdf/2505.04265)
 
-18. PwnGPT: Automatic Exploit Generation Based on Large Language Models | *ACL* | 2025.04 | [<u>Paper Link</u>](https://aclanthology.org/2025.acl-long.562.pdf)
+4. Benchmarking Practices in LLM-driven Offensive Security: Testbeds, Metrics, and Experiment Design | *arxiv* | 2025.04.14 | [<u>Paper Link</u>](https://arxiv.org/pdf/2504.10112)
 
-19. On the Feasibility of Using MultiModal LLMs to Execute AR Social Engineering Attacks | *arxiv* | 2025.04.16 | [<u>Paper Link</u>](https://arxiv.org/pdf/2504.13209)
+5. A Framework for Evaluating Emerging Cyberattack Capabilities of AI | *arxiv* | 2025.03.15 | [<u>Paper Link</u>](https://arxiv.org/pdf/2503.11917)
 
-20. Benchmarking Practices in LLM-driven Offensive Security: Testbeds, Metrics, and Experiment Design | *arxiv* | 2025.04.14 | [<u>Paper Link</u>](https://arxiv.org/pdf/2504.10112)
+6. OCCULT: Evaluating Large Language Models for Offensive Cyber Operation Capabilities | *arXiv* | 2025.02.18 | [<u>Paper Link</u>](https://arxiv.org/pdf/2502.15797)
 
-21. Red Teaming with Artificial Intelligence-Driven Cyberattacks: A Scoping Review | *arxiv* | 2025.03.25 | [<u>Paper Link</u>](https://arxiv.org/pdf/2503.19626)
+7. On the Feasibility of Using LLMs to Execute Multistage Network Attacks | *arXiv* | 2025.01.27 | [<u>Paper Link</u>](https://arxiv.org/pdf/2501.16466)
 
-22. A Framework for Evaluating Emerging Cyberattack Capabilities of AI | *arxiv* | 2025.03.15 | [<u>Paper Link</u>](https://arxiv.org/pdf/2503.11917)
+8. Hacking CTFs with Plain Agents | *arXiv* | 2024.12.03 | [<u>Paper Link</u>](https://arxiv.org/pdf/2412.02776)
 
-23. Jailbreaking Generative AI: Empowering Novices to Conduct Phishing Attacks | *arxiv* | 2025.03.03 | [<u>Paper Link</u>](https://arxiv.org/pdf/2503.01395)
+9. Next-Generation Phishing: How LLM Agents Empower Cyber Attackers | *arXiv* | 2024.11.22 | [<u>Paper Link</u>](https://arxiv.org/pdf/2411.13874)
 
-24. CAI: An Open, Bug Bounty-Ready Cybersecurity AI | *arXiv* | 2025.04.15 | [<u>Paper Link</u>](https://arxiv.org/abs/2504.06017)
+10. AutoPenBench: Benchmarking Generative Agents for Penetration Testing | *arXiv* | 2024.10.28 | [<u>Paper Link</u>](https://arxiv.org/pdf/2410.03225)
 
-25. RapidPen: Fully Automated IP-to-Shell Penetration Testing with LLM-based Agents | *arXiv* | 2025.02.23 | [<u>Paper Link</u>](https://arxiv.org/pdf/2502.16730)
+11. Towards Automated Penetration Testing: Introducing LLM Benchmark, Analysis, and Improvements | *arXiv* | 2024.10.25 | [<u>Paper Link</u>](https://arxiv.org/pdf/2410.17141)
 
-26. Construction and Evaluation of LLM-based agents for Semi-Autonomous penetration testing | *arXiv* | 2025.02.21 | [<u>Paper Link</u>](https://arxiv.org/pdf/2502.15506)
 
-27. OCCULT: Evaluating Large Language Models for Offensive Cyber Operation Capabilities | *arXiv* | 2025.02.18 | [<u>Paper Link</u>](https://arxiv.org/pdf/2502.15797)
-
-28. PenTest++: Elevating Ethical Hacking with AI and Automation | *arXiv* | 2025.02.13 | [<u>Paper Link</u>](https://arxiv.org/pdf/2502.09484)
-
-29. Can LLMs Hack Enterprise Networks? Autonomous Assumed Breach Penetration-Testing Active Directory Networks | *arXiv* | 2025.02.06 | [<u>Paper Link</u>](https://arxiv.org/pdf/2502.04227)
-
-30. On the Feasibility of Using LLMs to Execute Multistage Network Attacks | *arXiv* | 2025.01.27 | [<u>Paper Link</u>](https://arxiv.org/pdf/2501.16466)
-
-31. HackSynth: LLM Agent and Evaluation Framework for Autonomous Penetration Testing | *arXiv* | 2024.12.02 | [<u>Paper Link</u>](https://arxiv.org/pdf/2412.01778)
-
-32. Hacking CTFs with Plain Agents | *arXiv* | 2024.12.03 | [<u>Paper Link</u>](https://arxiv.org/pdf/2412.02776)
-
-33. Evaluating and Improving the Robustness of Security Attack Detectors Generated by LLMs | *arXiv* | 2024.11.27 | [<u>Paper Link</u>](https://arxiv.org/pdf/2411.18216)
-
-34. AI-Augmented Ethical Hacking: A Practical Examination of Manual Exploitation and Privilege Escalation in Linux Environments | *arXiv* | 2024.11.26 | [<u>Paper Link</u>](https://arxiv.org/pdf/2411.17539)
-
-35. Next-Generation Phishing: How LLM Agents Empower Cyber Attackers | *arXiv* | 2024.11.22 | [<u>Paper Link</u>](https://arxiv.org/pdf/2411.13874)
-
-36. Adapting to Cyber Threats: A Phishing Evolution Network (PEN) Framework for Phishing Generation and Analyzing Evolution Patterns using Large Language Models | *arXiv* | 2024.11.18 | [<u>Paper Link</u>](https://arxiv.org/pdf/2411.11389)
-
-37. Hacking Back the AI-Hacker: Prompt Injection as a Defense Against LLM-driven Cyberattacks | *arXiv* | 2024.11.18 | [<u>Paper Link</u>](https://arxiv.org/pdf/2410.20911)
-
-38. PentestAgent: Incorporating LLM Agents to Automated Penetration Testing | *arXiv* | 2024.11.07 | [<u>Paper Link</u>](https://arxiv.org/pdf/2411.05185)
-
-39. AutoPT: How Far Are We from the End2End Automated Web Penetration Testing? | *arXiv* | 2024.11.02 | [<u>Paper Link</u>](https://arxiv.org/pdf/2411.01236)
-
-40. AutoPenBench: Benchmarking Generative Agents for Penetration Testing | *arXiv* | 2024.10.28 | [<u>Paper Link</u>](https://arxiv.org/pdf/2410.03225)
-
-41. Towards Automated Penetration Testing: Introducing LLM Benchmark, Analysis, and Improvements | *arXiv* | 2024.10.25 | [<u>Paper Link</u>](https://arxiv.org/pdf/2410.17141)
-
-42. On the Feasibility of Fully AI-automated Vishing Attacks | *arXiv* | 2024.09.20 | [<u>Paper Link</u>](https://arxiv.org/pdf/2409.13793)
-
-43. Hacking, The Lazy Way: LLM Augmented Pentesting | *arXiv* | 2024.09.14 | [<u>Paper Link</u>](https://arxiv.org/pdf/2409.09493)
-
-44. Is Generative AI the Next Tactical Cyber Weapon For Threat Actors? Unforeseen Implications of AI Generated Cyber Attacks | *arXiv* | 2024.08.23 | [<u>Paper Link</u>](https://arxiv.org/pdf/2408.12806)
-
-45. CIPHER: Cybersecurity Intelligent Penetration-testing Helper for Ethical Researcher | *Sensors* | 2024.08.21 | [<u>Paper Link</u>](https://arxiv.org/pdf/2408.11650)
-
-46. Using Retriever Augmented Large Language Models for Attack Graph Generation | *arXiv* | 2024.08.11 | [<u>Paper Link</u>](https://arxiv.org/pdf/2408.05855)
-
-47. Practical Attacks against Black-box Code Completion Engines | *arXiv* | 2024.08.05 | [<u>Paper Link</u>](https://arxiv.org/pdf/2408.02509)
-
-48. PenHeal: A Two-Stage LLM Framework for Automated Pentesting and Optimal Remediation | *Proceedings of the Workshop on Autonomous Cybersecurity* | 2024.07.25 | [<u>Paper Link</u>](https://arxiv.org/pdf/2407.17788)
 
 49. From Sands to Mansions: Enabling Automatic Full-Life-Cycle Cyberattack Construction with LLM | *arXiv* | 2024.07.24 | [<u>Paper Link</u>](https://arxiv.org/pdf/2407.16928)
 
@@ -146,6 +126,6 @@ ReCopilot: Reverse Engineering Copilot in Binary Analysis | *arxiv* | 2025.05.22
 
 
 ### Defense Against AI Hackers
-
+1.  Hacking Back the AI-Hacker: Prompt Injection as a Defense Against LLM-driven Cyberattacks | *arXiv* | 2024.11.18 | [<u>Paper Link</u>](https://arxiv.org/pdf/2410.20911)
 1. Cybersecurity AI: Hacking the AI Hackers via Prompt Injection | *arxiv* | 2025.09.01 | [<u>Paper Link</u>](https://arxiv.org/pdf/2508.21669)
 
