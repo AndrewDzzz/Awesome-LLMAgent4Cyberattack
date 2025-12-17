@@ -17,7 +17,23 @@ RQ3: What challenges, risks, and open research directions arise from LLM agentâ€
 
 ## LLM Assisted Attack
 
-### Spider
+### Direct Attack Target: Website
+
+### Web Crawler
+
+### CAPTCHA
+
+1. Are CAPTCHAs Still Bot-hard? Generalized Visual CAPTCHA Solving with Agentic Vision Language Model | *USENIX* | 13 Aug 2025 | [<u>Paper Link</u>](https://www.usenix.org/system/files/usenixsecurity25-teoh.pdf)
+
+2. Open CaptchaWorld: A Comprehensive Web-based Platform for Testing and Benchmarking Multimodal LLM Agents | *arXiv* | 30 May 2025 | [<u>Paper Link</u>](https://arxiv.org/abs/2505.24878)
+
+3. MCA-Bench: A Multimodal Benchmark for Evaluating CAPTCHA Robustness Against VLM-based Attacks | *arXiv* | 17 Nov 2025 | [<u>Paper Link</u>](https://arxiv.org/abs/2506.05982)
+
+4. COGNITION: From Evaluation to Defense against Multimodal LLM CAPTCHA Solvers | *arXiv* | 3 Dec 2025 | [<u>Paper Link</u>](https://arxiv.org/pdf/2512.02318)
+
+#### Interesting talks
+
+1. Prompt Injection Shows LLM Agents Can Bypass CAPTCHA: What Security Teams Should Do | [<u>Paper Link</u>](https://cybersecurefox.com/en/prompt-injection-llm-agent-captcha-bypass) 
 
 ### Pentest
 
@@ -50,23 +66,9 @@ RQ3: What challenges, risks, and open research directions arise from LLM agentâ€
 14. PentestGPT: An LLM-empowered Automatic Penetration Testing Tool | *USENIX* | 2023.08.13 | [<u>Paper Link</u>](https://arxiv.org/abs/2308.06782)
 
 15. LLMs Killed the Script Kiddie: How Agents Supported by Large Language Models Change the Landscape of Network Threat Testing | *arXiv* | 2023.10.10 | [<u>Paper Link</u>](https://arxiv.org/abs/2310.06936)
-### Smart Contracts
 
-1. AI Agent Smart Contract Exploit Generation | *arXiv* | 7 Aug 2025 | [<u>Paper Link</u>](https://arxiv.org/abs/2507.05558)
-2. Prompt to Pwn: Automated Exploit Generation for Smart Contracts | *arXiv* | 7 Aug 2025 | [<u>Paper Link</u>](https://arxiv.org/abs/2507.05558)
 
-### CAPTCHA
-
-1. Are CAPTCHAs Still Bot-hard? Generalized Visual CAPTCHA Solving with Agentic Vision Language Model | *USENIX* | 13 Aug 2025 | [<u>Paper Link</u>](https://www.usenix.org/system/files/usenixsecurity25-teoh.pdf)
-
-2. Open CaptchaWorld: A Comprehensive Web-based Platform for Testing and Benchmarking Multimodal LLM Agents | *arXiv* | 30 May 2025 | [<u>Paper Link</u>](https://arxiv.org/abs/2505.24878)
-
-3. MCA-Bench: A Multimodal Benchmark for Evaluating CAPTCHA Robustness Against VLM-based Attacks | *arXiv* | 17 Nov 2025 | [<u>Paper Link</u>](https://arxiv.org/abs/2506.05982)
-
-4. COGNITION: From Evaluation to Defense against Multimodal LLM CAPTCHA Solvers | *arXiv* | 3 Dec 2025 | [<u>Paper Link</u>](https://arxiv.org/pdf/2512.02318)
-#### Interesting talks
-
-1. Prompt Injection Shows LLM Agents Can Bypass CAPTCHA: What Security Teams Should Do | [<u>Paper Link</u>](https://cybersecurefox.com/en/prompt-injection-llm-agent-captcha-bypass) 
+### Attack Target: Human
 
 ### Phishing Attacks
 
@@ -76,19 +78,8 @@ RQ3: What challenges, risks, and open research directions arise from LLM agentâ€
 
 3. On the Feasibility of Fully AI-automated Vishing Attacks | *arXiv* | 2024.09.20 | [<u>Paper Link</u>](https://arxiv.org/pdf/2409.13793)
 
-### Binary
 
-1. ReCopilot: Reverse Engineering Copilot in Binary Analysis | *arxiv* | 2025.05.22 | [<u>Paper Link</u>](https://arxiv.org/pdf/2505.16366)
 
-### Vul
-
-1. PwnGPT: Automatic Exploit Generation Based on Large Language Models | *ACL* | 2025.04 | [<u>Paper Link</u>](https://aclanthology.org/2025.acl-long.562.pdf)
-
-2. CAI: An Open, Bug Bounty-Ready Cybersecurity AI | *arXiv* | 2025.04.15 | [<u>Paper Link</u>](https://arxiv.org/abs/2504.06017)
-
-3. Tactics, Techniques, and Procedures (TTPs) in Interpreted Malware: A Zero-Shot Generation with Large Language Models | *arXiv* | 2024.07.11 | [<u>Paper Link</u>](https://arxiv.org/pdf/2407.08532)
-
-4. AutoAttacker: A Large Language Model Guided System to Implement Automatic Cyber-attacks | *arXiv* | 2024.03.02 | [<u>Paper Link</u>](https://arxiv.org/abs/2403.01038)
 
 ### Survey & benchmark
 
