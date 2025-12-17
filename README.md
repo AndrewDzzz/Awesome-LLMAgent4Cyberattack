@@ -74,7 +74,7 @@ RQ3: What challenges, risks, and open research directions arise from LLM agentâ€
 
 3. On the Feasibility of Fully AI-automated Vishing Attacks | *arXiv* | 2024.09.20 | [<u>Paper Link</u>](https://arxiv.org/pdf/2409.13793)
 
-### binary
+### Binary
 
 1. ReCopilot: Reverse Engineering Copilot in Binary Analysis | *arxiv* | 2025.05.22 | [<u>Paper Link</u>](https://arxiv.org/pdf/2505.16366)
 
