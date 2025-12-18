@@ -21,7 +21,7 @@ RQ3: What challenges, risks, and open research directions arise from LLM agentâ€
 
 ### Web Crawler
 
-#### Research Study
+#### Attack Study
 
 1. AutoCrawler: A Progressive Understanding Web Agent for Web Crawler Generation | [<u>Paper Link</u>](https://arxiv.org/abs/2404.12753)
    
@@ -35,6 +35,8 @@ RQ3: What challenges, risks, and open research directions arise from LLM agentâ€
 
 ### CAPTCHA
 
+#### Attack Study
+
 1. Are CAPTCHAs Still Bot-hard? Generalized Visual CAPTCHA Solving with Agentic Vision Language Model | *USENIX* | 13 Aug 2025 | [<u>Paper Link</u>](https://www.usenix.org/system/files/usenixsecurity25-teoh.pdf)
 
 2. Open CaptchaWorld: A Comprehensive Web-based Platform for Testing and Benchmarking Multimodal LLM Agents | *arXiv* | 30 May 2025 | [<u>Paper Link</u>](https://arxiv.org/abs/2505.24878)
@@ -43,9 +45,9 @@ RQ3: What challenges, risks, and open research directions arise from LLM agentâ€
 
 4. COGNITION: From Evaluation to Defense against Multimodal LLM CAPTCHA Solvers | *arXiv* | 3 Dec 2025 | [<u>Paper Link</u>](https://arxiv.org/pdf/2512.02318)
 
-#### Interesting talks
+5. Prompt Injection Shows LLM Agents Can Bypass CAPTCHA: What Security Teams Should Do | [<u>Report Link</u>](https://cybersecurefox.com/en/prompt-injection-llm-agent-captcha-bypass) 
 
-1. Prompt Injection Shows LLM Agents Can Bypass CAPTCHA: What Security Teams Should Do | [<u>Paper Link</u>](https://cybersecurefox.com/en/prompt-injection-llm-agent-captcha-bypass) 
+#### Defense Study
 
 ### Exploit Generation
 
