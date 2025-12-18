@@ -13,14 +13,14 @@ This repository aims to organize existing research on LLM agents for cyber attac
 
 ### Direct Attack Target: Website
 
-### Web Crawler
+#### Web Crawler
 
 1. AutoCrawler: A Progressive Understanding Web Agent for Web Crawler Generation | [<u>Paper Link</u>](https://arxiv.org/abs/2404.12753)
    
 2. A Survey of WebAgents: Towards Next-Generation AI Agents for Web Automation with Large Foundation Models | [<u>Paper Link</u>](https://arxiv.org/abs/2503.23350)
 
 
-### CAPTCHA
+#### CAPTCHA
 
 1. Are CAPTCHAs Still Bot-hard? Generalized Visual CAPTCHA Solving with Agentic Vision Language Model | [<u>Paper Link</u>](https://www.usenix.org/system/files/usenixsecurity25-teoh.pdf)
 
@@ -63,9 +63,51 @@ This repository aims to organize existing research on LLM agents for cyber attac
 15. LASHED: LLMs And Static Hardware Analysis for Early Detection of RTL Bugs | [<u>Paper Link</u>](https://arxiv.org/pdf/2504.21770)
 
 
-### Fuzzing Generation
+#### Fuzzing
 
-### Pentest
+1. LLM-Assisted Model-Based Fuzzing of Protocol Implementations | [<u>Paper Link</u>](https://arxiv.org/pdf/2508.01750)
+
+2. Fuzzing: Randomness? Reasoning! Efficient Directed Fuzzing via Large Language Models | [<u>Paper Link</u>](https://arxiv.org/pdf/2507.22065)
+
+3. Directed Greybox Fuzzing via Large Language Model | [<u>Paper Link</u>](https://arxiv.org/pdf/2505.03425)
+
+4. ToolFuzz -- Automated Agent Tool Testing | [<u>Paper Link</u>](https://arxiv.org/pdf/2503.04479)
+
+5. Towards Reliable LLM-Driven Fuzz Testing: Vision and Road Ahead | [<u>Paper Link</u>](https://arxiv.org/pdf/2503.00795)
+
+6. Your Fix Is My Exploit: Enabling Comprehensive DL Library API Fuzzing with Large Language Models | [<u>Paper Link</u>](https://arxiv.org/pdf/2501.04312)
+
+7. Large Language Model assisted Hybrid Fuzzing | [<u>Paper Link</u>](https://arxiv.org/pdf/2412.15931)
+
+8. Harnessing Large Language Models for Seed Generation in Greybox Fuzzing | [<u>Paper Link</u>](https://arxiv.org/pdf/2411.18143)
+
+9. ChatHTTPFuzz: Large Language Model-Assisted IoT HTTP Fuzzing | [<u>Paper Link</u>](https://arxiv.org/pdf/2411.11929)
+
+10. AutoSafeCoder: A Multi-Agent Framework for Securing LLM Code Generation through Static Analysis and Fuzz Testing | [<u>Paper Link</u>](https://arxiv.org/pdf/2409.10737)
+
+11. FuzzCoder: Byte-level Fuzzing Test via Large Language Model | [<u>Paper Link</u>](https://arxiv.org/pdf/2409.01944)
+
+12. An Exploratory Study on Using Large Language Models for Mutation Testing | [<u>Paper Link</u>](https://arxiv.org/pdf/2406.09843)
+
+13. Prompt Fuzzing for Fuzz Driver Generation | [<u>Paper Link</u>](https://arxiv.org/abs/2312.17677)
+
+14. When Fuzzing Meets LLMs: Challenges and Opportunities | [<u>Paper Link</u>](https://arxiv.org/pdf/2404.16297)
+
+15. Fuzzing BusyBox: Leveraging LLM and Crash Reuse for Embedded Bug Unearthing | [<u>Paper Link</u>](https://arxiv.org/abs/2403.03897)
+
+16. Large language model guided protocol fuzzing | [<u>Paper Link</u>](https://www.ndss-symposium.org/wp-content/uploads/2024-556-paper.pdf?ref=blog.exploits.club)
+
+17. Fuzz4All: Universal Fuzzing with Large Language Models | [<u>Paper Link</u>](https://arxiv.org/abs/2308.04748)
+
+18. CODAMOSA: Escaping Coverage Plateaus in Test Generation with Pre-trained Large Language Models | [<u>Paper Link</u>](https://ieeexplore.ieee.org/document/10172800/)
+
+19. Understanding Large Language Model Based Fuzz Driver Generation | [<u>Paper Link</u>](https://arxiv.org/abs/2307.12469)
+
+20. Augmenting Greybox Fuzzing with Generative AI | [<u>Paper Link</u>](https://arxiv.org/abs/2306.06782)
+
+21. Large Language Models are Edge-Case Fuzzers: Testing Deep Learning Libraries via FuzzGPT | [<u>Paper Link</u>](https://arxiv.org/abs/2304.02014)
+
+#### Pentest
 
 1. Pentest-R1: Towards Autonomous Penetration Testing Reasoning Optimized via Two-Stage Reinforcement Learning | [<u>Paper Link</u>](https://arxiv.org/pdf/2508.07382)
 
@@ -101,7 +143,7 @@ This repository aims to organize existing research on LLM agents for cyber attac
 
 ### Attack Target: Human
 
-### Phishing Attacks
+#### Phishing Attacks
 
 1. Can We End the Cat-and-Mouse Game? Simulating Self-Evolving Phishing Attacks with LLMs and Genetic Algorithms | [<u>Paper Link</u>](https://arxiv.org/pdf/2507.21538)
 
@@ -113,7 +155,7 @@ This repository aims to organize existing research on LLM agents for cyber attac
 
 5. Next-Generation Phishing: How LLM Agents Empower Cyber Attackers | [<u>Paper Link</u>](https://arxiv.org/pdf/2411.13874)
 
-### Fraud Attacks
+#### Fraud Attacks
 
 1. LLMs unlock new paths to monetizing exploits | [<u>Paper Link</u>](https://arxiv.org/pdf/2505.11449)
 
