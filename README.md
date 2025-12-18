@@ -21,6 +21,18 @@ RQ3: What challenges, risks, and open research directions arise from LLM agentâ€
 
 ### Web Crawler
 
+#### Research Study
+
+1. AutoCrawler: A Progressive Understanding Web Agent for Web Crawler Generation | [<u>Paper Link</u>](https://arxiv.org/abs/2404.12753)
+   
+2. A Survey of WebAgents: Towards Next-Generation AI Agents for Web Automation with Large Foundation Models | [<u>Paper Link</u>](https://arxiv.org/abs/2503.23350)
+   
+#### Defense Method
+
+1. Throttling Web Agents Using Reasoning Gates | [<u>Paper Link</u>](https://arxiv.org/abs/2503.23350)
+
+2. The Synergy of Automated Pipelines with Prompt Engineering and Generative AI in Web Crawling | [<u>Paper Link</u>](https://arxiv.org/abs/2502.15691)
+
 ### CAPTCHA
 
 1. Are CAPTCHAs Still Bot-hard? Generalized Visual CAPTCHA Solving with Agentic Vision Language Model | *USENIX* | 13 Aug 2025 | [<u>Paper Link</u>](https://www.usenix.org/system/files/usenixsecurity25-teoh.pdf)
