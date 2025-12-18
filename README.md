@@ -214,6 +214,7 @@ This repository aims to organize existing research on LLM agents for cyber attac
 
 6. https://github.com/huntoai/phishing-ai-agent
 
+7. https://github.com/unclecode/crawl4ai
 
 ## Support
 
