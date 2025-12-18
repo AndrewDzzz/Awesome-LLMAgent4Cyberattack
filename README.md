@@ -33,7 +33,7 @@ This repository aims to organize existing research on LLM agents for cyber attac
 
 5. Prompt Injection Shows LLM Agents Can Bypass CAPTCHA: What Security Teams Should Do | [<u>Report Link</u>](https://cybersecurefox.com/en/prompt-injection-llm-agent-captcha-bypass) 
 
-### Exploit Generation
+#### Exploit Generation
 
 1. SEC-bench: Automated Benchmarking of LLM Agents on Real-World Software Security Tasks | [<u>Paper Link</u>](https://arxiv.org/pdf/2506.11791)
 
