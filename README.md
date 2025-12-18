@@ -161,6 +161,10 @@ This repository aims to organize existing research on LLM agents for cyber attac
 
 2. The Shadow of Fraud: The Emerging Danger of AI-powered Social Engineering and its Possible Cure | [<u>Paper Link</u>](https://arxiv.org/pdf/2407.15912)
 
+3. Web Fraud Attacks Against LLM-Driven Multi-Agent Systems | **To LLM** | [<u>Paper Link</u>](https://arxiv.org/pdf/2509.01211)
+
+4. WHEN AI AGENTS COLLUDE ONLINE: FINANCIAL FRAUD RISKS BY COLLABORATIVE LLM AGENTS ON SOCIAL PLATFORMS| [<u>Paper Link</u>](https://arxiv.org/pdf/2511.06448)
+
 ### Survey & benchmark
 
 1. From Promise to Peril: Rethinking Cybersecurity Red and Blue Teaming in the Age of LLMs | [<u>Paper Link</u>](https://arxiv.org/pdf/2506.13434)
@@ -194,3 +198,23 @@ This repository aims to organize existing research on LLM agents for cyber attac
 6. Throttling Web Agents Using Reasoning Gates | [<u>Paper Link</u>](https://arxiv.org/abs/2503.23350)
 
 7. The Synergy of Automated Pipelines with Prompt Engineering and Generative AI in Web Crawling | [<u>Paper Link</u>](https://arxiv.org/abs/2502.15691)
+
+## Amazing Github Repo
+
+1. https://github.com/GreyDGL/PentestGPT
+
+2. https://github.com/code-philia/Halligan
+
+3. https://github.com/ai-robots-txt/ai.robots.txt
+
+4. https://github.com/westonbrown/Cyber-AutoAgent
+
+5. https://github.com/zheng977/MutiAgent4Fraud
+
+6. https://github.com/huntoai/phishing-ai-agent
+
+## Support
+
+For issues, questions, or feature requests, please open a GitHub issue.
+
+
