@@ -140,7 +140,7 @@ RQ3: What challenges, risks, and open research directions arise from LLM agent�
 
 12. The Shadow of Fraud: The Emerging Danger of AI-powered Social Engineering and its Possible Cure | [<u>Paper Link</u>](https://arxiv.org/pdf/2407.15912)
 
-13.Getting pwn’d by AI: Penetration Testing with Large Language Models | *ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering | [<u>Paper Link</u>](https://arxiv.org/abs/2308.00121)
+13.Getting pwn’d by AI: Penetration Testing with Large Language Models | [<u>Paper Link</u>](https://arxiv.org/abs/2308.00121)
 
 
 ### Defense Against AI Hackers
