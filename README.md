@@ -8,7 +8,7 @@ Recent research indicates that LLM agents can support multiple stages of the cyb
 
 This repository aims to organize existing research on LLM agents for cyber attacks, with a focus on the following research questions:
 
-**Note:** In this repo, we only talk about using LLM to attack web and human. 
+**Note:** In this repo, we only talk about using LLM to attack web and human. Also we include some research about defending LLM-Agent-based cyberattack, but unluckily current studies in this area still lack further exploration. 
 
 ## LLM Agent Assisted Attack
 
