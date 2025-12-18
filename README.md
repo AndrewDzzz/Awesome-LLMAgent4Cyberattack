@@ -179,7 +179,7 @@ This repository aims to organize existing research on LLM agents for cyber attac
 
 8. Hacking CTFs with Plain Agents | [<u>Paper Link</u>](https://arxiv.org/pdf/2412.02776)
 
-### Defense Against AI Hackers
+### Defense Against LLM Agent Hackers
 
 1.  Hacking Back the AI-Hacker: Prompt Injection as a Defense Against LLM-driven Cyberattacks | [<u>Paper Link</u>](https://arxiv.org/pdf/2410.20911)
 
