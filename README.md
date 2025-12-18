@@ -213,9 +213,6 @@ This repository aims to organize existing research on LLM agents for cyber attac
 
 6. https://github.com/huntoai/phishing-ai-agent
 
-## Awesome-LLMAgent4Cyberattack
-
-![Star History](https://star-history.com/svg?repos=AndrewDzzz/Awesome-LLMAgent4Cyberattack&type=Date)
 
 ## Support
 
