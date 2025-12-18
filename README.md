@@ -49,9 +49,9 @@ RQ3: What challenges, risks, and open research directions arise from LLM agent�
 
 #### Defense Study
 
-1. IllusionCAPTCHA: A CAPTCHA based on visual illusion | [<u>Report Link</u>](https://dl.acm.org/doi/pdf/10.1145/3696410.3714726）
+1. IllusionCAPTCHA: A CAPTCHA based on visual illusion | [<u>Paper Link</u>](https://dl.acm.org/doi/pdf/10.1145/3696410.3714726）
 
-2. 
+2. MI-CAPTCHA: Enhance the Security of CAPTCHA Using Mooney Images | [<u>Paper Link</u>](https://ojs.aaai.org/index.php/AAAI/article/view/32128/34283）
 
 ### Exploit Generation
 
