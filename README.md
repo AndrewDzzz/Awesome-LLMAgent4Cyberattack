@@ -8,34 +8,19 @@ Recent research indicates that LLM agents can support multiple stages of the cyb
 
 This repository aims to organize existing research on LLM agents for cyber attacks, with a focus on the following research questions:
 
-RQ1: How can LLM agents be constructed or adapted for cyber attack–oriented tasks?
 
-RQ2: What cyber attack activities can be enabled or enhanced by LLM agents?
-
-RQ3: What challenges, risks, and open research directions arise from LLM agent–based cyber attacks?
-
-
-## LLM Assisted Attack
+## LLM Agent Assisted Attack
 
 ### Direct Attack Target: Website
 
 ### Web Crawler
 
-#### Attack Study
-
 1. AutoCrawler: A Progressive Understanding Web Agent for Web Crawler Generation | [<u>Paper Link</u>](https://arxiv.org/abs/2404.12753)
    
 2. A Survey of WebAgents: Towards Next-Generation AI Agents for Web Automation with Large Foundation Models | [<u>Paper Link</u>](https://arxiv.org/abs/2503.23350)
-   
-#### Defense Method
 
-1. Throttling Web Agents Using Reasoning Gates | [<u>Paper Link</u>](https://arxiv.org/abs/2503.23350)
-
-2. The Synergy of Automated Pipelines with Prompt Engineering and Generative AI in Web Crawling | [<u>Paper Link</u>](https://arxiv.org/abs/2502.15691)
 
 ### CAPTCHA
-
-#### Attack Study
 
 1. Are CAPTCHAs Still Bot-hard? Generalized Visual CAPTCHA Solving with Agentic Vision Language Model | [<u>Paper Link</u>](https://www.usenix.org/system/files/usenixsecurity25-teoh.pdf)
 
@@ -47,13 +32,36 @@ RQ3: What challenges, risks, and open research directions arise from LLM agent�
 
 5. Prompt Injection Shows LLM Agents Can Bypass CAPTCHA: What Security Teams Should Do | [<u>Report Link</u>](https://cybersecurefox.com/en/prompt-injection-llm-agent-captcha-bypass) 
 
-#### Defense Study
-
-1. IllusionCAPTCHA: A CAPTCHA based on visual illusion | [<u>Paper Link</u>](https://dl.acm.org/doi/pdf/10.1145/3696410.3714726）
-
-2. MI-CAPTCHA: Enhance the Security of CAPTCHA Using Mooney Images | [<u>Paper Link</u>](https://ojs.aaai.org/index.php/AAAI/article/view/32128/34283）
-
 ### Exploit Generation
+
+1. SEC-bench: Automated Benchmarking of LLM Agents on Real-World Software Security Tasks | [<u>Paper Link</u>](https://arxiv.org/pdf/2506.11791)
+
+2. Large Language Models Versus Static Code Analysis Tools: A Systematic Benchmark for Vulnerability Detection | [<u>Paper Link</u>](https://arxiv.org/pdf/2508.04448)
+
+4. Out of Distribution, Out of Luck: How Well Can LLMs Trained on Vulnerability Datasets Detect Top 25 CWE Weaknesses? | [<u>Paper Link</u>](https://arxiv.org/pdf/2507.21817)
+
+5. LLMxCPG: Context-Aware Vulnerability Detection Through Code Property Graph-Guided Large Language Models | [<u>Paper Link</u>](https://arxiv.org/abs/2507.16585)
+
+6. Revisiting Pre-trained Language Models for Vulnerability Detection | [<u>Paper Link</u>](https://arxiv.org/pdf/2507.16887)
+
+7. MalCodeAI: Autonomous Vulnerability Detection and Remediation via Language Agnostic Code Reasoning | [<u>Paper Link</u>](https://arxiv.org/pdf/2507.10898)
+
+8. Identifying Helpful Context for LLM-based Vulnerability Repair: A Preliminary Study | [<u>Paper Link</u>](https://arxiv.org/pdf/2506.11561)
+
+9. VulStamp: Vulnerability Assessment using Large Language Model | [<u>Paper Link</u>](https://arxiv.org/pdf/2506.11484)
+
+10. Large Language Models for Multilingual Vulnerability Detection: How Far Are We? | [<u>Paper Link</u>](https://arxiv.org/pdf/2506.07503)
+
+11. Boosting Vulnerability Detection of LLMs via Curriculum Preference Optimization with Synthetic Reasoning Data | [<u>Paper Link</u>](https://arxiv.org/pdf/2506.07390)
+
+12. Let the Trial Begin: A Mock-Court Approach to Vulnerability Detection using LLM-Based Agents | [<u>Paper Link</u>](https://arxiv.org/pdf/2505.10961)
+
+13. A Preliminary Study of Large Language Models for Multilingual Vulnerability Detection | [<u>Paper Link</u>](https://arxiv.org/pdf/2505.07376)
+
+14. Enhancing Large Language Models with Faster Code Preprocessing for Vulnerability Detection | [<u>Paper Link</u>](https://arxiv.org/pdf/2505.05600)
+
+15. LASHED: LLMs And Static Hardware Analysis for Early Detection of RTL Bugs | [<u>Paper Link</u>](https://arxiv.org/pdf/2504.21770)
+
 
 ### Fuzzing Generation
 
@@ -89,6 +97,7 @@ RQ3: What challenges, risks, and open research directions arise from LLM agent�
 
 15. LLMs Killed the Script Kiddie: How Agents Supported by Large Language Models Change the Landscape of Network Threat Testing | [<u>Paper Link</u>](https://arxiv.org/abs/2310.06936)
 
+16. Getting pwn’d by AI: Penetration Testing with Large Language Models | [<u>Paper Link</u>](https://arxiv.org/abs/2308.00121)
 
 ### Attack Target: Human
 
@@ -98,21 +107,17 @@ RQ3: What challenges, risks, and open research directions arise from LLM agent�
 
 2. On the Feasibility of Fully AI-automated Vishing Attacks | [<u>Paper Link</u>](https://arxiv.org/pdf/2409.13793)
 
+3. AutoPenBench: Benchmarking Generative Agents for Penetration Testing | [<u>Paper Link</u>](https://arxiv.org/pdf/2410.03225)
+
+4. Towards Automated Penetration Testing: Introducing LLM Benchmark, Analysis, and Improvements | [<u>Paper Link</u>](https://arxiv.org/pdf/2410.17141)
+
+5. Next-Generation Phishing: How LLM Agents Empower Cyber Attackers | [<u>Paper Link</u>](https://arxiv.org/pdf/2411.13874)
+
 ### Fraud Attacks
 
 1. LLMs unlock new paths to monetizing exploits | [<u>Paper Link</u>](https://arxiv.org/pdf/2505.11449)
 
-
-### Attack Target: LLM Agent
-
-### Injection Attacks 
-
-### Poisoning and Extraction Attacks
-
-### Jailbreak Attacks
-
-### Agent Manipulation Attacks
-
+2. The Shadow of Fraud: The Emerging Danger of AI-powered Social Engineering and its Possible Cure | [<u>Paper Link</u>](https://arxiv.org/pdf/2407.15912)
 
 ### Survey & benchmark
 
@@ -132,18 +137,18 @@ RQ3: What challenges, risks, and open research directions arise from LLM agent�
 
 8. Hacking CTFs with Plain Agents | [<u>Paper Link</u>](https://arxiv.org/pdf/2412.02776)
 
-9. Next-Generation Phishing: How LLM Agents Empower Cyber Attackers | [<u>Paper Link</u>](https://arxiv.org/pdf/2411.13874)
-
-10. AutoPenBench: Benchmarking Generative Agents for Penetration Testing | [<u>Paper Link</u>](https://arxiv.org/pdf/2410.03225)
-
-11. Towards Automated Penetration Testing: Introducing LLM Benchmark, Analysis, and Improvements | [<u>Paper Link</u>](https://arxiv.org/pdf/2410.17141)
-
-12. The Shadow of Fraud: The Emerging Danger of AI-powered Social Engineering and its Possible Cure | [<u>Paper Link</u>](https://arxiv.org/pdf/2407.15912)
-
-13.Getting pwn’d by AI: Penetration Testing with Large Language Models | [<u>Paper Link</u>](https://arxiv.org/abs/2308.00121)
-
-
 ### Defense Against AI Hackers
+
 1.  Hacking Back the AI-Hacker: Prompt Injection as a Defense Against LLM-driven Cyberattacks | [<u>Paper Link</u>](https://arxiv.org/pdf/2410.20911)
+
 2. Cybersecurity AI: Hacking the AI Hackers via Prompt Injection | [<u>Paper Link</u>](https://arxiv.org/pdf/2508.21669)
+
 3. AI Crawl Control: review & control AI crawler activity | [<u>Report Link</u>](https://www.cloudflare.com/lp/pg-ai-crawl-control/?gclsrc=aw.ds&&utm_term=block%20ai%20bots_go_cmp-23027232630_adg-188479052071_ad-774692993476_kwd-2381096610389_dev-c_ext-_prd-_sig-Cj0KCQiAxonKBhC1ARIsAIHq_lt308S1eN81rp3AMpLrvuDsxTIwgnwdI48Kc2hJ0dNEaCt7eF82ICoaAuihEALw_wcB&gad_source=1&gad_campaignid=23027232630&gbraid=0AAAAADnzVeRSfLR9r0tzeiEKZvBKHea8j&gclid=Cj0KCQiAxonKBhC1ARIsAIHq_lt308S1eN81rp3AMpLrvuDsxTIwgnwdI48Kc2hJ0dNEaCt7eF82ICoaAuihEALw_wcB)
+
+4. IllusionCAPTCHA: A CAPTCHA based on visual illusion | [<u>Paper Link</u>](https://dl.acm.org/doi/pdf/10.1145/3696410.3714726）
+
+5. MI-CAPTCHA: Enhance the Security of CAPTCHA Using Mooney Images | [<u>Paper Link</u>](https://ojs.aaai.org/index.php/AAAI/article/view/32128/34283）
+
+6. Throttling Web Agents Using Reasoning Gates | [<u>Paper Link</u>](https://arxiv.org/abs/2503.23350)
+
+7. The Synergy of Automated Pipelines with Prompt Engineering and Generative AI in Web Crawling | [<u>Paper Link</u>](https://arxiv.org/abs/2502.15691)
