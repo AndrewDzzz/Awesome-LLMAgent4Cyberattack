@@ -145,9 +145,9 @@ This repository aims to organize existing research on LLM agents for cyber attac
 
 3. AI Crawl Control: review & control AI crawler activity | [<u>Report Link</u>](https://www.cloudflare.com/lp/pg-ai-crawl-control/?gclsrc=aw.ds&&utm_term=block%20ai%20bots_go_cmp-23027232630_adg-188479052071_ad-774692993476_kwd-2381096610389_dev-c_ext-_prd-_sig-Cj0KCQiAxonKBhC1ARIsAIHq_lt308S1eN81rp3AMpLrvuDsxTIwgnwdI48Kc2hJ0dNEaCt7eF82ICoaAuihEALw_wcB&gad_source=1&gad_campaignid=23027232630&gbraid=0AAAAADnzVeRSfLR9r0tzeiEKZvBKHea8j&gclid=Cj0KCQiAxonKBhC1ARIsAIHq_lt308S1eN81rp3AMpLrvuDsxTIwgnwdI48Kc2hJ0dNEaCt7eF82ICoaAuihEALw_wcB)
 
-4. IllusionCAPTCHA: A CAPTCHA based on visual illusion | [<u>Paper Link</u>](https://dl.acm.org/doi/pdf/10.1145/3696410.3714726）
+4. IllusionCAPTCHA: A CAPTCHA based on visual illusion | [<u>Paper Link</u>](https://dl.acm.org/doi/pdf/10.1145/3696410.3714726)
 
-5. MI-CAPTCHA: Enhance the Security of CAPTCHA Using Mooney Images | [<u>Paper Link</u>](https://ojs.aaai.org/index.php/AAAI/article/view/32128/34283）
+5. MI-CAPTCHA: Enhance the Security of CAPTCHA Using Mooney Images | [<u>Paper Link</u>](https://ojs.aaai.org/index.php/AAAI/article/view/32128/34283)
 
 6. Throttling Web Agents Using Reasoning Gates | [<u>Paper Link</u>](https://arxiv.org/abs/2503.23350)
 
