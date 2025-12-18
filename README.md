@@ -219,6 +219,14 @@ This repository aims to organize existing research on LLM agents for cyber attac
 
 7. https://github.com/unclecode/crawl4ai
 
+## Real-life Examples about LLM-Agent-Based Cyber Attackk
+
+1. Grok lies about Bondi attack | [<u>Paper Link</u>](https://www.theguardian.com/australia-news/2025/dec/18/fake-minns-altered-images-and-psyop-theories-bondi-attack-misinformation-shows-ais-power-to-confuse-ntwnfb)
+
+2. OpenAI's ChatGPT Agent passes "I am not a robot" captcha challenge | [<u>Paper Link</u>](https://www.ghacks.net/2025/07/30/openais-chatgpt-agent-passes-i-am-not-a-robot-captcha/)
+
+
+
 ## Support
 
 For issues, questions, or feature requests, please open a GitHub issue.
