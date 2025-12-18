@@ -199,6 +199,7 @@ This repository aims to organize existing research on LLM agents for cyber attac
 
 7. The Synergy of Automated Pipelines with Prompt Engineering and Generative AI in Web Crawling | [<u>Paper Link</u>](https://arxiv.org/abs/2502.15691)
 
+8. Reducing CAPTCHAs with Web Bot Auth | [<u>Paper Link</u>](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/browser-web-bot-auth.html)
 ## Amazing Github Repo
 
 1. https://github.com/GreyDGL/PentestGPT
