@@ -10,6 +10,14 @@ This repository aims to organize existing research on LLM agents for cyber attac
 
 **Note:** In this repo, we only talk about using LLM to attack web and human. Also we include some research about defending LLM-Agent-based cyberattack, but unluckily current studies in this area still lack further exploration. 
 
+## LLM Agent
+
+CLI/Desktop Agent (w/o GUI, w GUI)
+
+Web Agent (In browser)
+
+Mobile Phone Agent
+
 ## LLM Agent Assisted Attack
 
 ### Direct Attack Target: Website
