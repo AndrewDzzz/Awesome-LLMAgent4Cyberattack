@@ -1,5 +1,6 @@
 # Awesome-LLMAgent4Cyberattack
 
+![Overview](main.png)
 
 ## 🌈 Introduction
 Large Language Model (LLM) agents extend conventional LLMs by enabling planning, tool use, and multi-step decision making. While LLM agents have shown promise in automation and cybersecurity defense, they also introduce new security risks when repurposed for offensive purposes. By coordinating tools, reasoning over intermediate results, and autonomously executing tasks, LLM agents can act as cyber attack assistants, potentially lowering the barrier to conducting complex cyber attacks.
