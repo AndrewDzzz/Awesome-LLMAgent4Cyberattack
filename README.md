@@ -233,7 +233,7 @@ Mobile Phone Agent
 
 2. OpenAI's ChatGPT Agent passes "I am not a robot" captcha challenge | [<u>News Link</u>](https://www.ghacks.net/2025/07/30/openais-chatgpt-agent-passes-i-am-not-a-robot-captcha/)
 
-
+3. Disrupting the first reported AI-orchestrated cyber espionage campaign | [<u>News Link</u>](https://www.anthropic.com/news/disrupting-AI-espionage)
 
 ## Support
 
