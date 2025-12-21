@@ -72,6 +72,7 @@ Mobile Phone Agent
 
 15. LASHED: LLMs And Static Hardware Analysis for Early Detection of RTL Bugs | [<u>Paper Link</u>](https://arxiv.org/pdf/2504.21770)
 
+16. Project Naptime: Evaluating Offensive Security Capabilities of Large Language Models | [Report Link](https://googleprojectzero.blogspot.com/2024/06/project-naptime.html)
 
 #### Fuzzing
 
@@ -192,6 +193,10 @@ Mobile Phone Agent
 7. On the Feasibility of Using LLMs to Execute Multistage Network Attacks | [<u>Paper Link</u>](https://arxiv.org/pdf/2501.16466)
 
 8. Hacking CTFs with Plain Agents | [<u>Paper Link</u>](https://arxiv.org/pdf/2412.02776)
+
+9. CyberSecEval 2: A Wide-Ranging Cybersecurity Evaluation Suite for Large Language Models | [Paper Link](https://arxiv.org/abs/2404.13161)
+   
+10. InterCode: Standardizing and Benchmarking Interactive Coding with Execution Feedback | [Paper Link](https://arxiv.org/abs/2306.14897)
 
 ### Defense Against LLM Agent Hackers
 
