@@ -152,6 +152,8 @@ Mobile Phone Agent
 
 16. Getting pwn’d by AI: Penetration Testing with Large Language Models | [<u>Paper Link</u>](https://arxiv.org/abs/2308.00121)
 
+17. LLM Agents can Autonomously Hack Websites | [Paper Link](https://arxiv.org/abs/2402.06664)
+
 ### Attack Target: Human
 
 #### Phishing Attacks
