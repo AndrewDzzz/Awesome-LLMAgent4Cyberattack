@@ -3,9 +3,9 @@
 ![Overview](main.png)
 
 ## 🌈 Introduction
-Large Language Model (LLM) agents extend conventional LLMs by enabling planning, tool use, and multi-step decision making. While LLM agents have shown promise in automation and cybersecurity defense, they also introduce new security risks when repurposed for offensive purposes. By coordinating tools, reasoning over intermediate results, and autonomously executing tasks, LLM agents can act as cyber attack assistants, potentially lowering the barrier to conducting complex cyber attacks.
+Large Language Model (LLM) agents extend conventional LLMs by enabling capabilities such as planning, tool use, and multi-step decision making. While these agents have demonstrated strong potential in areas including automation and cybersecurity defense, their autonomous and compositional nature also introduces new security risks when repurposed for offensive use. By coordinating external tools, reasoning over intermediate states, and executing tasks with minimal human intervention, LLM agents can function as cyber attack assistants, substantially lowering the barrier to carrying out complex cyber attacks.
 
-Recent research indicates that LLM agents can support multiple stages of the cyber attack lifecycle, such as reconnaissance, social engineering, exploit reasoning, and attack orchestration. However, studies on LLM agent–enabled cyber attacks remain scattered across different communities, lacking a systematic overview of which areas LLM agents can launch cyberattacks.
+Recent studies show that LLM agents can support multiple stages of the cyber attack lifecycle, including reconnaissance, social engineering, exploit reasoning, and attack orchestration. However, existing work on LLM-agent–enabled cyber attacks is fragmented across different research communities, often focusing on isolated attack scenarios or specific technical components. As a result, there is a lack of a systematic understanding of where, how, and to what extent LLM agents can be leveraged for cyber attacks.
 
 This repository aims to organize existing research on LLM agents for cyber attacks, with a focus on the following research questions:
 
